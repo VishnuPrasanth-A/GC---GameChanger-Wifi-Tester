@@ -1,8 +1,3 @@
-Here’s your updated and **GitHub-ready `README.md`** file, with proper `##` section formatting, bullet alignment, code blocks, and markdown best practices. This version is polished, clean, and matches standard open-source presentation guidelines:
-
----
-
-````markdown
 # GC---GameChanger-WiFi-Tester
 
 The **GC Toolkit (Game Changer)** is an advanced, self-contained **Wi-Fi penetration testing and network diagnostic tool** powered by the **ESP32 board**.  
