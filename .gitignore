@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+*.bin
+*.elf
+*.map
+*.hex
+*.pyc
+__pycache__/
+.DS_Store
+*.bak
+*.tmp
+*.log
