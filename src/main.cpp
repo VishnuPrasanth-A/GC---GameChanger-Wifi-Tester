@@ -23,7 +23,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #define SD_CS    5
 #define SD_MOSI  23
 #define SD_MISO  19
-#define SD_SCK   18
+#define SD_SCK   14
 
 // Menu
 String menuItems[] = {
