@@ -43,7 +43,7 @@ It features a clean **OLED user interface** with **dual-button control** and pow
 | SD CS         | GPIO5          |
 | SD MOSI       | GPIO23         |
 | SD MISO       | GPIO19         |
-| SD CLK (SCK)  | GPIO18         |
+| SD CLK (SCK)  | GPIO14         |
 
 > ⚠️ Ensure your SD card module supports **3.3V logic** or use level shifters if needed.
 
