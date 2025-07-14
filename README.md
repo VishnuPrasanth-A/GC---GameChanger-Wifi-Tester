@@ -105,7 +105,7 @@ lib_deps =
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/GC-Wifi-Tester.git
+   git clone https://github.com/VishnuPrasanth-A/GC---GameChanger-Wifi-Tester.git
    cd GC-Wifi-Tester
    ```
 
