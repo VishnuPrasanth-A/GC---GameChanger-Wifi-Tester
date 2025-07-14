@@ -123,9 +123,9 @@ lib_deps =
    * In VSCode: press `Upload` in PlatformIO
    * Or via terminal:
 
-     ```bash
-     pio run --target upload
-     ```
+   ```bash
+   pio run --target upload
+   ```
 
 6. **Monitor Serial**
 
