@@ -51,6 +51,7 @@ The GC- Toolkit (Game Changer) is an advanced, self-contained Wi-Fi penetration 
   {"ssid": "MyHomeWiFi", "password": "mypassword123"},
   {"ssid": "CafeNet", "password": "coffeetime"}
 ]
+```
 🧠 Software Stack
 PlatformIO + Arduino Framework
 
