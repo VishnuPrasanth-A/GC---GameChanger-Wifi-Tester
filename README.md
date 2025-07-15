@@ -1,3 +1,14 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Microcontroller](https://img.shields.io/badge/Board-ESP32-blue)
+![Display](https://img.shields.io/badge/Display-OLED_128x64-lightgrey)
+![WiFi Tools](https://img.shields.io/badge/Tools-WiFiScan|Deauth|FakeAP|Sniffing-orange)
+![Storage](https://img.shields.io/badge/Storage-SD_Card_Enabled-yellow)
+![BLE](https://img.shields.io/badge/BLE-Supported-blueviolet)
+![Captive Portal](https://img.shields.io/badge/Captive_Portal-Enabled-critical)
+![Report](https://img.shields.io/badge/Report-PDF-success)
+[![GitHub Repo stars](https://img.shields.io/github/stars/VishnuPrasanth-A/GC---GameChanger-WiFi-Tester?style=social)](https://github.com/VishnuPrasanth-A/GC---GameChanger-WiFi-Tester)
+
 # GC---GameChanger-WiFi-Tester
 
 The **GC Toolkit (Game Changer)** is an advanced, self-contained **Wi-Fi penetration testing and network diagnostic tool** powered by the **ESP32 board**.  
