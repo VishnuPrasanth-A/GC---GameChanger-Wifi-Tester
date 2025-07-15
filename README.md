@@ -31,30 +31,30 @@ It features a clean **OLED user interface** with **dual-button control** and pow
 
 ## 📦 Hardware Required
 
-                                                              | Component           | Description                  |
-                                                              |--------------------|------------------------------|
-                                                              | ESP32 Dev Board     | 30/38-pin with WiFi & BLE     |
-                                                              | OLED Display        | SSD1306 128x64 (I2C)          |
-                                                              | Push Buttons × 2    | Scroll & Select navigation    |
-                                                              | SD Card Module      | SPI-based (FAT32-formatted)   |
-                                                              | microSD Card        | 1GB or more, FAT32 format     |
-                                                              | Jumper Wires        | Male–Female recommended       |
-                                                              | Power Source        | USB or 5V Power Bank          |
+  | Component           | Description                  |
+  |--------------------|-------------------------------|
+  | ESP32 Dev Board     | 30/38-pin with WiFi & BLE    |
+  | OLED Display        | SSD1306 128x64 (I2C)         |
+  | Push Buttons × 2    | Scroll & Select navigation   |
+  | SD Card Module      | SPI-based (FAT32-formatted)  |
+  | microSD Card        | 1GB or more, FAT32 format    |
+  | Jumper Wires        | Male–Female recommended      |
+  | Power Source        | USB or 5V Power Bank         |
 
 ---
 
 ## 🔌 Wiring Diagram
 
-                                                                        | Component     | ESP32 GPIO Pin |
-                                                                        |---------------|----------------|
-                                                                        | OLED SDA      | GPIO21         |
-                                                                        | OLED SCL      | GPIO22         |
-                                                                        | Scroll Button | GPIO17         |
-                                                                        | Select Button | GPIO18         |
-                                                                        | SD CS         | GPIO5          |
-                                                                        | SD MOSI       | GPIO23         |
-                                                                        | SD MISO       | GPIO19         |
-                                                                        | SD CLK (SCK)  | GPIO14         |
+  | Component     | ESP32 GPIO Pin |
+  |---------------|----------------|
+  | OLED SDA      | GPIO21         |
+  | OLED SCL      | GPIO22         |
+  | Scroll Button | GPIO17         |
+  | Select Button | GPIO18         |
+  | SD CS         | GPIO5          |
+  | SD MOSI       | GPIO23         |
+  | SD MISO       | GPIO19         |
+  | SD CLK (SCK)  | GPIO14         |
 
 > ⚠️ Ensure your SD card module supports **3.3V logic** or use level shifters if needed.
 
