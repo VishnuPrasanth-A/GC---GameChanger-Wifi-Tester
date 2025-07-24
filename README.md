@@ -164,6 +164,6 @@ lib_deps =
 This project is created with ❤️ by **Mr. Vishnu**
 For ethical hackers, security learners, and pentest researchers.
 
-> 100% Open Source — share knowledge, not exploits!
+> 100% Open Source — share knowledge, not exploits,Strictly for education purpose only!
 
 ---
